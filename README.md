@@ -11,4 +11,5 @@ The respository contains google colab notebooks with the data and code named acc
 Each of these GANs were trained for about 100-200 epochs and ResNet GAN gives the best quality of style transfered audio files with minimal noise. 
 
 Contributors: Mouli Aphale, Shilpa Thomas, Swetha Thomas
+
 Mentored by Professor Keith Chugg
